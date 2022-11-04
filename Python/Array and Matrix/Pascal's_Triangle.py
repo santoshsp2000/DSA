@@ -1,6 +1,9 @@
+from typing import List
+
+
 class Solution:
 
-    def generate_pascal_triangle(self, numRows: int):
+    def generate_pascal_triangle(self, numRows: int) -> List[List[int]]:
         ans = []
 
         for i in range(1, numRows + 1):
