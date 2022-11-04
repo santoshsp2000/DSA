@@ -1,6 +1,9 @@
+from typing import List
+
+
 class Solution:
 
-    def maxSubArray(self, nums):
+    def maxSubArray(self, nums: List[int]) -> int:
         summ = 0
         maxx = nums[0]
 
