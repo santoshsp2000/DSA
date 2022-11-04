@@ -1,6 +1,9 @@
+from typing import List
+
+
 class Solution:
 
-    def sort_arry012(self, nums):
+    def sort_arry012(self, nums: List[int]) -> None:
         """ Do not return anything, modify nums in-place instead. """
 
         start, mid = 0, 0
