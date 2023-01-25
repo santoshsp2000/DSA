@@ -3,6 +3,7 @@ from typing import List
 
 
 class Solution:
+
     def getRow(self, rowIndex: int) -> List[int]:
         if rowIndex == 0: return [1]
         ans = [1]
