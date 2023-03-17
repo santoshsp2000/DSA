@@ -43,3 +43,4 @@ class Solution:
                     que.append(j)
 
         return dist[n - 1]
+
