@@ -2,7 +2,9 @@
 
 
 class Node:
+
     def __init__(self):
+        # Ued Dictionary instead of array for better search result
         self.data = {}
         self.is_word = False
 
@@ -22,6 +24,7 @@ class Trie:
         ref.is_word = True
 
     def search(self, word: str) -> bool:
+
         ref = self.root
         for i in word:
             if i in ref.data:
