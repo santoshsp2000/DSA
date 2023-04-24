@@ -1,6 +1,6 @@
 # 509. Fibonacci Number
 # Leetcode Easy
-# Date: 6 April 2023
+# Date: 24 April 2023
 # TC: O(N)
 # SC: O(1)
 
