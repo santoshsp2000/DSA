@@ -1,6 +1,6 @@
 # 516. Longest Palindromic Subsequence
 # Leetcode Medium
-# Date: 13 April 2023
+# Date: 14 April 2023
 # TC: O(N^2)
 # SC: O(N^2)
 
