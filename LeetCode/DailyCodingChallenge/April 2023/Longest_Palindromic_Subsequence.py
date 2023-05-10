@@ -18,5 +18,4 @@ class Solution:
                     dp[i][j] = 2 + dp[i + 1][j - 1]
                 else:
                     dp[i][j] = max(dp[i + 1][j], dp[i][j - 1])
-
         return dp[0][n - 1]
