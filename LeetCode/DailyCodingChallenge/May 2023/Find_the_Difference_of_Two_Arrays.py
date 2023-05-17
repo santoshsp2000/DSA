@@ -1,8 +1,8 @@
 # 2215. Find the Difference of Two Arrays
 # Leetcode Easy
-# Date: 2 May 2023
-# TC: O(N)
-# SC: O(1)
+# Date: 3 May 2023
+# TC: O(N + M)
+# SC: O(N + M)
 from typing import List
 
 
