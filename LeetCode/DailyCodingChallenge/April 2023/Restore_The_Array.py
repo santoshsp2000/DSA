@@ -2,7 +2,7 @@
 # Leetcode Hard
 # Date: 23 April 2023
 # TC: O(N ^ 2)
-# SC: O(N ^ 2)
+# SC: O(N)
 
 
 class Solution:
