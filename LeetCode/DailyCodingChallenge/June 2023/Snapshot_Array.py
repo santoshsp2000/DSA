@@ -2,7 +2,7 @@
 # Leetcode Medium
 # Date: 11 June 2023
 # TC: O(log(N))
-# SC: O(1)
+# SC: O(N)
 
 
 class SnapshotArray:
